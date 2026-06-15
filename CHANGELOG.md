@@ -8,6 +8,16 @@ _No notable changes since the last release._
 
 ---
 
+## v2026.6.15.0-beta -- 2026-06-15
+
+### Released
+- Published Face Tracking installer for WKOpenVR 2026.6.15.0-beta.
+- Installer: `WKOpenVR-FaceTracking-v2026.6.15.0-beta-Setup.exe`
+- SHA256: `22d0a87afdee8f969874bc09b98a6ee166267d5398daecfafdccfabbd5bf1001`
+- Release: <https://github.com/RealWhyKnot/WKOpenVR-FaceTracking/releases/tag/v2026.6.15.0-beta>
+
+---
+
 ## v2026.6.14.0-beta -- 2026-06-14
 
 ### Released
