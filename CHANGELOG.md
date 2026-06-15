@@ -13,7 +13,7 @@ _No notable changes since the last release._
 ### Released
 - Published Face Tracking installer for WKOpenVR 2026.6.15.0-beta.
 - Installer: `WKOpenVR-FaceTracking-v2026.6.15.0-beta-Setup.exe`
-- SHA256: `22d0a87afdee8f969874bc09b98a6ee166267d5398daecfafdccfabbd5bf1001`
+- Integrity: `WKOpenVR-FaceTracking-v2026.6.15.0-beta-Setup.integrity.tsv`
 - Release: <https://github.com/RealWhyKnot/WKOpenVR-FaceTracking/releases/tag/v2026.6.15.0-beta>
 
 ---
@@ -23,7 +23,7 @@ _No notable changes since the last release._
 ### Released
 - Published Face Tracking installer for WKOpenVR 2026.6.14.0-beta.
 - Installer: `WKOpenVR-FaceTracking-v2026.6.14.0-beta-Setup.exe`
-- SHA256: `2f7006efd822d2ee61fec76955cf8da3a50f100fd42d92bacb495e6618e53e77`
+- Integrity: `WKOpenVR-FaceTracking-v2026.6.14.0-beta-Setup.integrity.tsv`
 - Release: <https://github.com/RealWhyKnot/WKOpenVR-FaceTracking/releases/tag/v2026.6.14.0-beta>
 
 ---
@@ -33,7 +33,7 @@ _No notable changes since the last release._
 ### Released
 - Published Face Tracking installer for WKOpenVR 2026.6.13.0-beta.
 - Installer: `WKOpenVR-FaceTracking-v2026.6.13.0-beta-Setup.exe`
-- SHA256: `0574704e08d17d1d7b6d8cece2697f46572683462d9b67cb2cd7ac3a096abe72`
+- Integrity: `WKOpenVR-FaceTracking-v2026.6.13.0-beta-Setup.integrity.tsv`
 - Release: <https://github.com/RealWhyKnot/WKOpenVR-FaceTracking/releases/tag/v2026.6.13.0-beta>
 
 ---
@@ -43,7 +43,7 @@ _No notable changes since the last release._
 ### Released
 - Published Face Tracking installer for WKOpenVR 2026.6.12.0-beta.
 - Installer: `WKOpenVR-FaceTracking-v2026.6.12.0-beta-Setup.exe`
-- SHA256: `f0f0793df3b1a9a26c068e15c8885fa035f74fcbe7bb99fcfa5fb015f5e659f5`
+- Integrity: `WKOpenVR-FaceTracking-v2026.6.12.0-beta-Setup.integrity.tsv`
 - Release: <https://github.com/RealWhyKnot/WKOpenVR-FaceTracking/releases/tag/v2026.6.12.0-beta>
 
 ---
@@ -53,7 +53,7 @@ _No notable changes since the last release._
 ### Released
 - Published Face Tracking installer for WKOpenVR 2026.6.11.0-beta.
 - Installer: `WKOpenVR-FaceTracking-v2026.6.11.0-beta-Setup.exe`
-- SHA256: `2c5c5f28b99d1bee2fc2e3f7a987020a3031490cc43c1f745617a319a6a27e62`
+- Integrity: `WKOpenVR-FaceTracking-v2026.6.11.0-beta-Setup.integrity.tsv`
 - Release: <https://github.com/RealWhyKnot/WKOpenVR-FaceTracking/releases/tag/v2026.6.11.0-beta>
 
 ---
